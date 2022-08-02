@@ -1,11 +1,14 @@
 # 🚀 2021 Computer Graphics Term-Project
 
-### Topic 
-#### 🕹️ Any Games
+### Topic : 🕹️ Any Games
 #### So, I got inspired by the video game [Fall Guys: Ultimate Knockout]
+
+***
 
 ### 💽 Programming language / tools
 #### C, C++, OpenGL, Blender.
+
+***
 
 ### 🗓️ Development Period
 #### 21.10.20 ~ 21.12.17
