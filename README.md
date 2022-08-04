@@ -1,7 +1,7 @@
 # 🚀 2021 Computer Graphics Term-Project
 
 ### Topic : 🕹️ Any Games
-#### So, I got inspired by the video game [Fall Guys: Ultimate Knockout]
+#### I got inspired by the video game [Fall Guys: Ultimate Knockout]!
 
 ***
 
