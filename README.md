@@ -17,3 +17,5 @@
 
 ### 🎮 Reviewing and Playing Demo on Youtube 🎮 
 [Link](https://youtu.be/tG_n6tfj5Sk)
+
+## :loudspeaker: The sources of pictures and sound files used in the project are written in the pdf file.
